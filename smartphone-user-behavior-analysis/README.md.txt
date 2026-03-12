@@ -69,4 +69,5 @@ images/ → visualization charts
 
 ## Author
 
-Data analytics portfolio project created for Data Analyst and Business Analyst roles.
+Mia Duong
+
