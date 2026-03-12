@@ -45,7 +45,7 @@ The dataset contains **700 smartphone users** with the following features:
 
 ### App Usage by Operating System
 
-![App Usage](images/app_usage_os.png)
+![App Usage](images/app_usages_os.png)
 
 ### Screen Time vs App Usage
 
@@ -70,4 +70,3 @@ images/ → visualization charts
 ## Author
 
 Mia Duong
-
