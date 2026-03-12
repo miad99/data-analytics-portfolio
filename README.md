@@ -12,7 +12,9 @@ Analyzed smartphone engagement patterns across 700 users to understand how devic
 Tools: Python, Pandas, Matplotlib
 
 Project Folder:
-smartphone-user-behavior-analysis
+smartphone-user-behavior-analysis\
+https://github.com/miad99/data-analytics-portfolio/tree/main/smartphone-user-behavior-analysis
+
 
 ---
 
@@ -23,15 +25,22 @@ Performed statistical analysis of a website experiment to determine whether a ne
 Tools: Python, SciPy, Pandas
 
 Project Folder:
-ab-testing-analysis
+ab-testing-analysis\
+https://github.com/miad99/data-analytics-portfolio/tree/main/ab-testing-analysis
+
 
 ---
 
-### Sales Performance Dashboard (Coming Soon)
+### Sales Performance Dashboard 
 
 SQL-based analysis of retail sales data with business insights and visualizations.
 
 Tools: SQL, Tableau
+
+Project Folder:
+sales-dashboard-analysis\
+https://github.com/miad99/data-analytics-portfolio/tree/main/sales-dashboard-analysis
+
 
 ---
 
