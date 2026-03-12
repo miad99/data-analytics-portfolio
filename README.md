@@ -47,11 +47,11 @@ Tools: SQL, Tableau
 
 ## Tools Used
 
-Python
-Pandas
-NumPy
-Matplotlib
-SQL
+Python\
+Pandas\
+NumPy\
+Matplotlib\
+SQL\
 Google Colab
 
 ---
