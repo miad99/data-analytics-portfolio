@@ -89,11 +89,7 @@ Based on the analysis:
 
 ## Project Structure
 
-data/ → Global Superstore dataset
-notebook/ → Jupyter notebook with full analysis
-images/ → visualization charts used in this project
 
-Example structure:
 
 sales-dashboard-analysis
 │
